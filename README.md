@@ -17,7 +17,7 @@ YOHRM-Sales is a simple and responsive HTML landing page designed for HR (Human 
 - **Contact Form:** Includes a contact form to allow visitors to get in touch with you directly.
 
 ## Screenshots
-![alt text](https://github.com/[robin-ivi]/[yohrm-sales]/blob/welcome/images/yohrmq.png)
+![alt text](https://wphrm.com/wp-content/uploads/yohrmq.png)
 ## Usage
 
 1. Clone the repository:
@@ -40,8 +40,22 @@ Open ``index.html`` in a web browser to preview the landing page locally.
 Upload the contents of the repository to your web hosting or server to make the landing page live.
 
 
+```
 
+Contributing
+If you'd like to contribute to the project, please follow the standard GitHub workflow:
 
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make changes and commit them.
+Push the changes to your fork.
+Submit a pull request.
+License
+This project is licensed under the MIT License.
 
+Contact
+For any inquiries or support, please contact [Krishna Mishra] via [mishrarabin18@gmail.com].
+
+Feel free to update the sections according to your project's specifics. Include any additional information or guidelines that would be relevant to users or contributors.
 
 
