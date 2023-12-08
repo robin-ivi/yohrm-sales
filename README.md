@@ -22,7 +22,7 @@ YOHRM-Sales is a simple and responsive HTML landing page designed for HR (Human 
 
 1. Clone the repository:
    ``` 
-     git clone https://github.com/your-username/yohrm-sales.git
+     git clone https://github.com/robin-ivi/yohrm-sales.git
 ```
 
 
