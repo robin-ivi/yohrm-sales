@@ -17,9 +17,7 @@ YOHRM-Sales is a simple and responsive HTML landing page designed for HR (Human 
 - **Contact Form:** Includes a contact form to allow visitors to get in touch with you directly.
 
 ## Screenshots
-
-![Screenshot](/welcome/images/yohrmq.png)
-
+![alt text](https://github.com/[robin-ivi]/[yohrm-sales]/blob/welcome/images/yohrmq.png)
 ## Usage
 
 1. Clone the repository:
