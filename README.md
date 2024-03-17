@@ -9,7 +9,7 @@ Make sure to replace the placeholders with the actual information about your pro
 YOHRM-Sales is a simple and responsive HTML landing page designed for HR (Human Resources) purposes. It provides a clean and modern interface to showcase your HR services or products related to sales.
 
 ## Features
-
+ 
 - **Responsive Design:** The landing page is built with a responsive design, ensuring a seamless experience across various devices and screen sizes.
 
 - **Customizable:** Easily customize the content, images, and styling to match your brand and specific needs.
